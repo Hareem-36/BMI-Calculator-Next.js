@@ -1,3 +1,7 @@
+![BMI C](https://github.com/user-attachments/assets/7d507d5e-9a29-4365-8aba-6fd197f55b86)
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
